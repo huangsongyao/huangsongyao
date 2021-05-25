@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @huangsongyao
-- iOS、Android、Python、Shell、Js
+- iOS、Android、flutter、Python、Shell、Js、Java
